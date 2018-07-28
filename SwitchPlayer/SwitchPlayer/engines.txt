@@ -1,0 +1,7 @@
+﻿2
+C:\Users\taniguchi\Desktop\tanuki
+C:\Users\taniguchi\Desktop\tanuki\YaneuraOu-by-gcc-avx2.exe
+10
+C:\Users\taniguchi\Desktop\tanuki
+C:\Users\taniguchi\Desktop\tanuki\YaneuraOu-by-gcc-tournament.exe
+1000
